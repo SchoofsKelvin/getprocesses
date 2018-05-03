@@ -1,6 +1,6 @@
 {
     "name": "getprocesses",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "",
     "dependencies": {
         "argsplit": "^1.0.5"
@@ -11,7 +11,7 @@
         "ts-node": ""
     },
     "main": "lib/index.js",
-    "types" : "lib/index.d.ts",
+    "types": "lib/index.d.ts",
     "scripts": {
         "start": "node lib/index.js",
         "noglobal": "set NODE_PATH='' && node lib/index.js",
