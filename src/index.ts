@@ -6,6 +6,8 @@ import { getProcessesWindows } from './ps_windows';
 
 const IS_WINDOWS = process.platform === 'win32';
 
+export * from './ps_data';
+
 export async function getProcesses(): Promise<Process[]> {
   if (IS_WINDOWS) {
     return getProcessesWindows();
