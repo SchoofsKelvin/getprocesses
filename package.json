@@ -1,6 +1,6 @@
 {
     "name": "getprocesses",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "argsplit": "^1.0.5"
@@ -22,6 +22,5 @@
         "name": "Kelvin Schoofs",
         "email": "schoofs.kelvin@gmail.com"
     },
-    "license": "GLP-3.0",
-    "private": true
+    "license": "GLP-3.0"
 }
