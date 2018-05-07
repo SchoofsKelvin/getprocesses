@@ -30,7 +30,7 @@ setTimeout(async () => {
 },         1000);
 
 ```
-***Note**: Haven't thoroughly tested it on a lot of systems, and not a single Apple product
+**Note**: Haven't thoroughly tested it on a lot of systems, and not a single Apple product
 
 ### Links
 * GitHub: https://github.com/SchoofsKelvin/getprocesses
